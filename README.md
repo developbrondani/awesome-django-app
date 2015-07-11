@@ -14,6 +14,8 @@ Your contributions are always welcome!
 
 # Models
 
+- [Model Mommy](https://github.com/vandersonmota/model_mommy) - Model-mommy offers you a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
+
 # Views
 
 # Forms
